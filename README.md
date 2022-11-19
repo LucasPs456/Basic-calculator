@@ -4,7 +4,7 @@
 
 a basic calculator 
 
-[🔗 Click over here to access](https://github.com/LukacLeDev/BasicCalculator.git)
+[🔗 Click over here to access](https://lukacledev.github.io/Basic-calculator/)
 
 ## 🛠 Technologies
 
@@ -19,5 +19,4 @@ a basic calculator
 lucasps465@outlook.com
 
 # Basic-Calculator
-# Basic-Calculator
-# BasicCalculator
+
