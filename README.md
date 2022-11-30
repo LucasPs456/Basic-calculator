@@ -4,7 +4,7 @@
 
 a basic calculator 
 
-[🔗 Click over here to access](https://lukacledev.github.io/Basic-calculator/)
+[🔗 Click over here to access](https://basic-calculator-by-lukac.netlify.app)
 
 ## 🛠 Technologies
 
